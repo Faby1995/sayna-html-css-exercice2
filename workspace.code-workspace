@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "C:\\xampp\\htdocs\\generer_qr_code"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\banque"
+		},
+		{
+			"path": "c:\\xampp\\htdocs\\formation"
+		},
+		{
+			"path": "c:\\Users\\zaho\\Desktop\\exercice1"
+		},
+		{
+			"path": "c:\\Users\\zaho\\Desktop\\Projet finale html-css"
+		},
+		{
+			"path": "c:\\Users\\zaho\\Desktop\\test"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projet finale html-css"
+	}
+}
